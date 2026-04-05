@@ -1,0 +1,13 @@
+ultralytics
+opencv-python
+pandas
+streamlit
+scipy
+numpy
+matplotlib
+pillow
+lapx
+yt-dlp
+fpdf2
+openpyxl
+plotly
